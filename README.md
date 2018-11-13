@@ -1,5 +1,7 @@
 # MaMo
 
+*Maintained by [@jonnyarnold](https://github.com/jonnyarnold/)*
+
 The **Ma**thematical **Mo**delling Helper you never knew you didn't need.
 
 ## Installation
